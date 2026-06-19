@@ -1,0 +1,17 @@
+# Dependencies
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+
+# Java compiled classes
+backend/*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
